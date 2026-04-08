@@ -23,5 +23,5 @@ A simple web tool to analyze GitHub accounts and display comprehensive statistic
 ## How to Use | كيفية الاستخدام
 
 1. ```bash
-   git clone https://github.com/yourusername/github-analyzer.git
+   git clone https://github.com/alawim0/github-analyzer.git
    ```
